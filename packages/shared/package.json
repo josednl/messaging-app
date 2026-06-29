@@ -1,0 +1,13 @@
+{
+  "name": "@messaging-app/shared",
+  "version": "1.0.0",
+  "description": "Shared packages and utilities for messaging-app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
